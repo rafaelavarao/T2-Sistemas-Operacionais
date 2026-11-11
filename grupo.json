@@ -1,0 +1,12 @@
+{
+  "integrantes": [
+    {"nome": "Rafaela Varão"},
+    {"nome": "Gabriel Gauterio"},
+    {"nome": "Gabriel Dalben"}
+  ],
+  "repositorio": "https://github.com/rafaelavarao/T2-Sistemas-Operacionais",
+  "modulos": ["M1", "M2", "M3", "M4", "M5", "M6"],
+  "integracao": true,
+  "bonus_flash": true,
+  "observacoes": "Todos os módulos, a integração e o bônus foram implementados. Experimento extra (fora dos oficiais): experimentos_extras.py -> resultados/extras/flash_gc.csv."
+}

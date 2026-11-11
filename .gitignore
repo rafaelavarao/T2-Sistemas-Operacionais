@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+
+# dados sensíveis: nunca no repositório público
+.env
+*.pem
+*.key
+id_rsa*
+
+# enunciado do professor (não publicar)
+*.pdf
