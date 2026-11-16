@@ -550,7 +550,7 @@ Experimento extra (flash usado):
 
 ## 8. Declaração de autoria e uso de IA
 
-**Quem fez o quê:** Rafaela Varão, Gabriel Gauterio e Gabriel Dalben (a divisão de tarefas deve ser descrita aqui pelo grupo antes da entrega).
+**Quem fez o quê:** Rafaela Varão - N2 e Módulos de E/S (M1 - M2), Gabriel Gauterio - N3 e Módulo de arquivos (M4 - M6) e Gabriel Dalbem - integração, bônus flash, experimentos e revisão do relatório. todos revisaram as análises.
 
 **Uso de ferramentas de IA:**
 
